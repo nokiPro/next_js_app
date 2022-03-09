@@ -1,8 +1,7 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
-
 # Next.jsの公式チュートリアル
  
 Next.jsの公式チュートリアルにおいて、簡単なブログサイトを作成しました。
+This is a starter template for Learn Next.js.
 
 # DEMO
  
